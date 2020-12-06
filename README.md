@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-All requiremetns modules of this project are all contain in requirments.txt
+see list of modules in `requirements.txt`
 ```
 pip install -r requirements.txt
 ```
