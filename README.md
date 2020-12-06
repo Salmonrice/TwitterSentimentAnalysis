@@ -17,3 +17,4 @@ example of using frozen model is in the `test_import_model.ipynb`
 Source
 ------
 We getting the data source from PyThaiNLP/wisesight-sentiment: First release by Arthit Suriyawongkul, Ekapol Chuangsuwanich, Pattarawat Chormai, and Charin Polpanumas
+https://github.com/PyThaiNLP/wisesight-sentiment
