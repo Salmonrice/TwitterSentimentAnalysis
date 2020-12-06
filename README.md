@@ -1,6 +1,6 @@
 # Twitter Sentiment Analysis
 
-see list of modules in `requirements.txt`
+see list of modules in `requirements.txt` with python 3.6.2
 ```
 pip install -r requirements.txt
 ```
